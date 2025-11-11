@@ -96,7 +96,7 @@ Godot uses **nodes** and **scenes** to organize projects.
     - The preview window will be grey since we haven't actually done anything yet.
 5. Press *F8* or click the Stop icon in the upper right to stop the preview.
 ***
-6. Press *CTRL + A* to create new scene for our player.
+6. Press *CTRL + N* to create a new scene and then press *CTRL + A* to create new node for our player.
 7. Search for *CharacterBody2D* and select it.
 8. Click *Create*.
 ***
@@ -105,7 +105,7 @@ Godot uses **nodes** and **scenes** to organize projects.
 11. Choose *AnimatedSprite2D* and click *Create*.
 12. Find the **Inspector** on the right side of the screen. This is where we change the properties for each node.
 13. Click *< empty >* next to **Sprite Frames**.
-14. Under **New** choose **Sprite Frames**.
+14. Under **New** choose **Sprite Frames** and then click on *SpriteFrames* again.
 15. At the bottom middle of the screen find **Animation Frames:** and click the icon that looks like a box with lines. This allows us to add animation frames from a *sprite sheet* (a collection of sprites in one image file).
 16. Open **assets**.
 17. Open **sprites**.
